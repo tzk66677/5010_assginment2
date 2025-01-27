@@ -138,5 +138,6 @@ function drawHexagon(cx, cy, r) {
   endShape(CLOSE);
 }
 
+## Sample Image
 <img width="600" alt="屏幕截图 2025-01-26 215709" src="https://github.com/user-attachments/assets/d551983a-6618-4e74-a8bb-47620ee101c3" />
 
